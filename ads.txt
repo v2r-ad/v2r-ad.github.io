@@ -1,5 +1,5 @@
 # Ownership Declaration (IAB v1.1)
-OWNERDOMAIN=[yourdomain.com]
+OWNERDOMAIN=v2r-ad.github.io
 
 # ---------- Applovin ----------
 applovin.com, 5a53157df85a74d9d1fb71af71334ab3, DIRECT
